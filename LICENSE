@@ -1,0 +1,331 @@
+GRALTION SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Graltion Corporation. All rights reserved.
+
+IMPORTANT — PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THIS SOFTWARE, YOU ACKNOWLEDGE
+THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY
+ITS TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE,
+DO NOT INSTALL, COPY, OR USE THE SOFTWARE.
+
+
+SECTION 1 — DEFINITIONS
+
+1.1 "Software" means the AquaClean application and all associated files,
+    documentation, source code, object code, binary code, assets, and any
+    updates, patches, or modifications thereto provided by Graltion Corporation.
+
+1.2 "Licensor" means Graltion Corporation, the exclusive owner of all
+    intellectual property rights in and to the Software.
+
+1.3 "Licensee" or "You" means any natural person who installs, accesses,
+    runs, or otherwise uses the Software under the terms of this License.
+
+1.4 "Source Code" means the human-readable form of the Software, including
+    all modules, interfaces, definitions, and related files.
+
+1.5 "Object Code" means the compiled, machine-readable form of the Software.
+
+1.6 "Derivative Work" means any work that is based upon, derived from,
+    translated from, adapted from, or incorporates all or any part of the
+    Software, regardless of the medium or form in which it is expressed.
+
+1.7 "License" means this Graltion Software License, Version 1.0.
+
+
+SECTION 2 — GRANT OF LICENSE
+
+2.1 Subject to Your full and continued compliance with all terms and conditions
+    of this License, Graltion Corporation hereby grants You a limited,
+    personal, non-exclusive, non-transferable, non-sublicensable, revocable
+    license to:
+
+    (a) Install and execute the Software solely on devices owned or directly
+        controlled by You, strictly for personal, non-commercial purposes;
+
+    (b) View and study the Source Code of the Software solely for personal
+        educational and reference purposes, without the right to reproduce,
+        copy, or distribute it in any form;
+
+    (c) Share the original, unmodified official download link or public
+        reference to the Software as distributed by Graltion Corporation.
+
+2.2 This License does not constitute a sale, assignment, or transfer of the
+    Software or any intellectual property rights therein. Graltion Corporation
+    retains full and exclusive ownership of the Software at all times.
+
+2.3 No rights are granted to You other than those expressly set forth in
+    Section 2.1. All other rights are reserved exclusively by Graltion
+    Corporation.
+
+
+SECTION 3 — RESTRICTIONS
+
+3.1 You shall NOT, under any circumstances, without the prior express written
+    consent of Graltion Corporation:
+
+    (a) Copy, reproduce, duplicate, or otherwise replicate the Source Code,
+        Object Code, or any portion thereof, in whole or in part, in any
+        medium or form, whether digital, physical, or otherwise;
+
+    (b) Clone, fork, mirror, or create any unauthorized copy of the Software
+        or its repository, in whole or in part;
+
+    (c) Modify, alter, adapt, translate, localize, or create any Derivative
+        Works based upon the Software or any part thereof;
+
+    (d) Distribute, publish, sublicense, rent, lease, lend, sell, resell,
+        assign, or otherwise transfer the Software, any copy thereof, or any
+        rights granted under this License to any third party;
+
+    (e) Decompile, disassemble, reverse engineer, or attempt to reconstruct,
+        identify, or derive the Source Code from the Object Code version of
+        the Software, except solely to the extent that such activity is
+        expressly and explicitly permitted by mandatory applicable law
+        notwithstanding this restriction, and only after prior written
+        notification to Graltion Corporation;
+
+    (f) Use the Software or any portion thereof as a component, basis,
+        reference, or part of any other software product, application,
+        service, or system, whether commercial or non-commercial;
+
+    (g) Remove, obscure, alter, cover, or destroy any copyright notices,
+        trademark symbols, ownership legends, proprietary markings, or any
+        other intellectual property notices appearing on or within the
+        Software or its documentation;
+
+    (h) Use the name "Graltion", "Graltion Corporation", "AquaClean", "GSL",
+        or any related trademarks, trade names, service marks, logos, or
+        product names in connection with any product, service, publication,
+        or activity without the prior express written consent of Graltion
+        Corporation;
+
+    (i) Use the Software for any unlawful, fraudulent, or malicious purpose,
+        or in violation of any applicable local, national, or international
+        law or regulation;
+
+    (j) Permit, authorize, or assist any third party to perform any of the
+        acts restricted under this Section 3.
+
+
+SECTION 4 — INTELLECTUAL PROPERTY RIGHTS
+
+4.1 The Software and all copies thereof, in whole or in part, are proprietary
+    to Graltion Corporation. Title to and ownership of the Software shall
+    remain exclusively with Graltion Corporation at all times.
+
+4.2 Graltion Corporation retains all rights, title, and interest in and to
+    the Software, including without limitation all copyrights, patent rights,
+    trade secrets, trademarks, service marks, trade names, and all other
+    intellectual property rights, whether registered or unregistered, and
+    whether arising under the laws of the Republic of Kazakhstan or any
+    other jurisdiction.
+
+4.3 The Software is protected by the copyright laws of the Republic of
+    Kazakhstan, including the Law of the Republic of Kazakhstan "On Copyright
+    and Related Rights" dated June 10, 1996, No. 6-I (as amended), and by
+    applicable international intellectual property treaties and conventions,
+    including the Berne Convention for the Protection of Literary and
+    Artistic Works.
+
+4.4 Nothing in this License shall be construed as granting, by implication,
+    estoppel, or otherwise, any license or right to any intellectual property
+    of Graltion Corporation other than as expressly set forth in Section 2.
+
+
+SECTION 5 — PRIVACY AND DATA COLLECTION
+
+5.1 Graltion Corporation is committed to the privacy and anonymity of its
+    users. The Software is designed with a privacy-first architecture and:
+
+    (a) Does not collect, record, transmit, store, or process any personal
+        data, user information, or usage data on any external server or
+        third-party system;
+
+    (b) Does not employ any form of telemetry, analytics, crash reporting,
+        advertising identifiers, behavioral monitoring, or user tracking
+        of any kind;
+
+    (c) Stores all user-defined preferences exclusively on the local storage
+        of the user's device, under the user's full and sole control;
+
+    (d) Does not require, initiate, or maintain any internet connection for
+        any aspect of its core functionality.
+
+
+SECTION 6 — DISCLAIMER OF WARRANTIES
+
+6.1 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+    OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+
+6.2 TO THE MAXIMUM EXTENT PERMITTED BY THE LAWS OF THE REPUBLIC OF
+    KAZAKHSTAN AND ANY OTHER APPLICABLE JURISDICTION, GRALTION CORPORATION
+    EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
+
+    (a) ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+        PURPOSE, TITLE, AND NON-INFRINGEMENT;
+
+    (b) ANY WARRANTIES THAT THE SOFTWARE WILL MEET YOUR SPECIFIC
+        REQUIREMENTS OR EXPECTATIONS;
+
+    (c) ANY WARRANTIES THAT THE OPERATION OF THE SOFTWARE WILL BE
+        CONTINUOUS, UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE;
+
+    (d) ANY WARRANTIES REGARDING THE ACCURACY, COMPLETENESS, RELIABILITY,
+        OR RESULTS OF ANY INFORMATION OBTAINED THROUGH USE OF THE SOFTWARE.
+
+6.3 YOU ASSUME SOLE AND FULL RESPONSIBILITY FOR THE SELECTION, INSTALLATION,
+    AND USE OF THE SOFTWARE AND FOR ALL RESULTS OBTAINED THEREFROM.
+
+
+SECTION 7 — LIMITATION OF LIABILITY
+
+7.1 TO THE MAXIMUM EXTENT PERMITTED BY THE LAWS OF THE REPUBLIC OF
+    KAZAKHSTAN AND ANY OTHER APPLICABLE JURISDICTION, IN NO EVENT SHALL
+    GRALTION CORPORATION, ITS FOUNDERS, AFFILIATES, OFFICERS, EMPLOYEES,
+    AGENTS, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY DAMAGES OR LOSSES
+    OF ANY KIND ARISING OUT OF OR RELATED TO THIS LICENSE OR THE USE OF,
+    OR INABILITY TO USE, THE SOFTWARE, INCLUDING BUT NOT LIMITED TO:
+
+    (a) INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR
+        EXEMPLARY DAMAGES OF ANY NATURE;
+
+    (b) PHYSICAL OR MECHANICAL DAMAGE TO ANY DEVICE, INCLUDING BUT NOT
+        LIMITED TO DAMAGE TO SPEAKERS, AUDIO COMPONENTS, MICROPHONES,
+        EARPHONES, HEADPHONES, OR ANY OTHER HARDWARE COMPONENT, ARISING
+        FROM OR RELATED TO THE USE OF THE SOFTWARE OR ITS ACOUSTIC OUTPUT;
+
+    (c) LOSS OF DATA, CONTENT, REVENUE, PROFITS, BUSINESS OPPORTUNITY,
+        GOODWILL, OR ANTICIPATED SAVINGS;
+
+    (d) PERSONAL INJURY OR PROPERTY DAMAGE OF ANY NATURE.
+
+7.2 THIS LIMITATION OF LIABILITY APPLIES REGARDLESS OF THE LEGAL THEORY
+    UNDER WHICH SUCH DAMAGES ARE SOUGHT, INCLUDING CONTRACT, TORT,
+    NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER THEORY, AND REGARDLESS OF
+    WHETHER GRALTION CORPORATION HAS BEEN ADVISED OF THE POSSIBILITY OF
+    SUCH DAMAGES.
+
+
+SECTION 8 — TERMINATION
+
+8.1 This License is effective from the moment You first install or use the
+    Software and shall continue until terminated.
+
+8.2 This License and all rights granted hereunder will terminate
+    automatically and immediately, without notice or further action by
+    Graltion Corporation, upon Your failure to comply with any term or
+    condition of this License.
+
+8.3 Graltion Corporation reserves the right to terminate this License at
+    any time, with or without cause, upon written notice to You.
+
+8.4 Upon termination of this License for any reason, You shall immediately:
+
+    (a) Cease all use of the Software;
+
+    (b) Permanently delete and destroy all copies of the Software,
+        in whole or in part, in Your possession or under Your control,
+        on all devices and storage media.
+
+8.5 Termination of this License shall not limit any other rights or remedies
+    available to Graltion Corporation at law or in equity.
+
+8.6 The following Sections shall survive any termination of this License:
+    Section 1, Section 4, Section 5, Section 6, Section 7, Section 9,
+    and Section 10.
+
+
+SECTION 9 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+9.1 This License shall be governed by, and construed and enforced in
+    accordance with, the laws of the Republic of Kazakhstan, without regard
+    to its conflict of laws principles.
+
+9.2 Any dispute, controversy, or claim arising out of or relating to this
+    License, or the breach, termination, or invalidity thereof, shall be
+    subject to the exclusive jurisdiction of the competent courts of the
+    Republic of Kazakhstan.
+
+9.3 If any provision of this License is held by a court of competent
+    jurisdiction to be invalid, illegal, or unenforceable under applicable
+    law, such provision shall be modified to the minimum extent necessary
+    to make it valid, legal, and enforceable. The validity, legality, and
+    enforceability of the remaining provisions of this License shall not
+    in any way be affected or impaired thereby.
+
+
+SECTION 10 — GENERAL PROVISIONS
+
+10.1 Entire Agreement. This License constitutes the entire and exclusive
+     agreement between You and Graltion Corporation with respect to the
+     Software and supersedes all prior or contemporaneous oral or written
+     understandings, representations, or agreements regarding its subject
+     matter.
+
+10.2 Amendments. Graltion Corporation reserves the right to amend, update,
+     or replace this License at any time at its sole discretion. Any such
+     amendments shall be effective upon publication or notification to You.
+     Your continued installation or use of the Software following such
+     notification constitutes Your unconditional acceptance of the amended
+     License.
+
+10.3 No Waiver. The failure or delay of Graltion Corporation to exercise or
+     enforce any right or provision of this License shall not constitute a
+     waiver of such right or provision. Any waiver of any provision of this
+     License must be made in writing and signed by a duly authorized
+     representative of Graltion Corporation to be effective.
+
+10.4 Severability. If any provision of this License is found by a court of
+     competent jurisdiction to be invalid, unlawful, or unenforceable, such
+     provision shall be severed from this License and the remaining provisions
+     shall continue in full force and legal effect.
+
+10.5 No Assignment. You may not assign, transfer, delegate, or sublicense
+     this License or any of Your rights or obligations hereunder, whether
+     by operation of law or otherwise, without the prior express written
+     consent of Graltion Corporation. Any purported assignment or transfer
+     in violation of this Section shall be null and void ab initio.
+
+10.6 Third-Party Components. The Software incorporates certain third-party
+     open-source components, each of which is governed by its own respective
+     license terms as identified in the application's Licenses section.
+     Such third-party license terms apply solely to those respective
+     components and do not affect, modify, or supersede the terms of this
+     License as applied to Graltion Corporation's proprietary portions of
+     the Software.
+
+10.7 Language. This License is written in the English language. In the event
+     of any conflict or inconsistency between any translation of this License
+     and this English-language version, the English-language version shall
+     prevail and control.
+
+
+SECTION 11 — CONTACT
+
+11.1 For any questions regarding this License, permission requests, or legal
+     inquiries concerning the Software or the intellectual property of
+     Graltion Corporation, please direct all correspondence to:
+
+     Graltion Corporation
+     Republic of Kazakhstan
+     Legal Inquiries: legal@graltion.com
+
+11.2 Graltion Corporation will endeavor to respond to all legitimate legal
+     inquiries within a reasonable period of time.
+
+
+Copyright (c) 2026 Graltion Corporation. All rights reserved.
+
+AquaClean is a proprietary product of Graltion Corporation, developed and
+distributed under the Graltion Software License (GSL), Version 1.0.
+
+The Software is protected by the copyright laws of the Republic of Kazakhstan,
+including the Law "On Copyright and Related Rights" No. 6-I dated June 10,
+1996 (as amended), and by applicable international intellectual property
+treaties, including the Berne Convention for the Protection of Literary and
+Artistic Works.
+
+Graltion Software License (GSL) — Version 1.0

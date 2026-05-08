@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AquaClean</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_about">О приложении</string>
+    <string name="nav_terms">Условия использования</string>
+    <string name="nav_privacy">Политика конфиденциальности</string>
+    <string name="nav_licenses">Лицензии</string>
+    <string name="menu">Меню</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">AquaClean</string>
+    <string name="onboarding_subtitle">Перед началом прочитайте и подтвердите</string>
+    <string name="onboarding_terms">Я принимаю условия использования</string>
+    <string name="onboarding_privacy">Я принимаю политику конфиденциальности</string>
+    <string name="onboarding_accept">Принять</string>
+
+    <!-- Device -->
+    <string name="device_phone">Телефон</string>
+    <string name="device_headphones">Наушники</string>
+
+    <!-- Modes -->
+    <string name="select_mode">Выберите режим</string>
+    <string name="mode_light">Light</string>
+    <string name="mode_normal">Normal</string>
+    <string name="mode_deep">Deep</string>
+
+    <!-- Main -->
+    <string name="duration">Длительность</string>
+    <string name="seconds">сек</string>
+    <string name="start">Запустить</string>
+
+    <!-- Warning -->
+    <string name="warning_title">Перед запуском</string>
+    <string name="warning_message">Положите телефон лицом вверх на ровную поверхность динамиком вниз. Убедитесь что громкость устройства на максимуме. Не держите телефон в руках во время очистки.</string>
+    <string name="ready">Готово</string>
+    <string name="wait_seconds">Подождите (%1$d)</string>
+
+    <!-- Cleaning -->
+    <string name="cleaning_in_progress">Очистка выполняется</string>
+    <string name="stop">Остановить</string>
+
+    <!-- Completion -->
+    <string name="cleaning_completed">Очистка завершена</string>
+    <string name="mode">Режим</string>
+    <string name="test">Проверить</string>
+    <string name="repeat">Повторить</string>
+    <string name="done">Готово</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Язык</string>
+    <string name="settings_theme">Тема</string>
+    <string name="settings_vibration">Вибрация</string>
+    <string name="settings_notification">Уведомление по завершении</string>
+    <string name="settings_repeat">Повторить автоматически</string>
+
+    <!-- Language options -->
+    <string name="lang_system">Системный</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+
+    <!-- Theme options -->
+    <string name="theme_system">Системная</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_light">Светлая</string>
+
+    <!-- About -->
+    <string name="version">Версия %1$s</string>
+    <string name="developer">Разработчик</string>
+    <string name="license_label">Лицензия</string>
+    <string name="copyright">Авторские права</string>
+
+    <!-- Terms -->
+    <string name="terms_title">Условия использования</string>
+    <string name="terms_full_text">GSL v1.0 — Graltion Software License\n\nРазрешено:\n- Использовать приложение в личных целях\n- Просматривать и изучать исходный код\n- Делиться ссылкой на оригинальное приложение\n\nЗапрещено:\n- Копировать, клонировать, использовать или распространять исходный код\n- Выпускать свои версии на основе нашего кода\n- Убирать упоминания Graltion Corporation\n- Использовать название Graltion или GSL в своих проектах\n\nОтветственность:\nGraltion Corporation не несёт ответственности за любые повреждения устройства в результате неправильного использования приложения. Используйте на свой страх и риск.</string>
+
+    <!-- Privacy -->
+    <string name="privacy_title">Политика конфиденциальности</string>
+    <string name="privacy_full_text">Graltion Corporation гарантирует:\n\n- Мы не собираем никакие данные пользователей\n- Никакой телеметрии и отслеживания\n- Все настройки хранятся только локально на вашем устройстве\n- Интернет-соединение не требуется и не используется\n- Никаких сторонних аналитических или рекламных SDK\n\nВаши данные принадлежат вам. Всегда.</string>
+
+    <!-- Licenses -->
+    <string name="licenses_title">Лицензии</string>
+    <string name="licenses_content">Это приложение использует следующие open source компоненты:\n\n- Jetpack Compose - Apache License 2.0\n- AndroidX Navigation - Apache License 2.0\n- AndroidX DataStore - Apache License 2.0\n- AndroidX Core SplashScreen - Apache License 2.0\n\nAquaClean распространяется под лицензией Graltion Software License (GSL v1.0).\n\n© 2026 Graltion Corporation</string>
+
+    <!-- Misc -->
+    <string name="close">Закрыть</string>
+</resources>
